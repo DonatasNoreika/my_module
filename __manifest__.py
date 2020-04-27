@@ -15,7 +15,7 @@
         # 'views/account_menuitem.xml',
     ],
     'demo': [
-        # 'demo/account_demo.xml',
+        'demo.xml',
     ],
     'qweb': [
         # "static/src/xml/account_payment.xml",
